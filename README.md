@@ -1,5 +1,7 @@
 # 2_IBM_data_science_course
-Assignments from Coursera course from IBM: Data Science Professional Certificate
+Assignments from Coursera course from IBM: Data Science Professional Certificate.
+
+
 The final certification consists of 10 courses in total which are:
 
 What is Data Science?
